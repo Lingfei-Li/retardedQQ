@@ -1,0 +1,28 @@
+
+
+.hidden {
+    display: none;
+}
+
+.form-control {
+    margin: 10px;
+}
+
+.btn {
+    margin: 10px;
+}
+
+pre {
+    background: transparent;
+    border: none;
+}
+
+.message {
+    margin: 10px;
+    background: rgb(235,235,235);
+}
+
+.friend {
+    margin: 10px;
+    background: rgb(235,235,235);
+}

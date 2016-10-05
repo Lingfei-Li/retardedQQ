@@ -1,0 +1,8 @@
+.git/
+.idea/
+bin/
+node_modules/
+QR.png
+log.txt
+messages/
+public/QR/*.png
