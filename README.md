@@ -1,3 +1,3 @@
-# idiotQQ
+# retardedQQ
 
-SmartQQ, such an idiot, Its messages deserve better hosts like idiotQQ.
+idiotQQ without database operations; a playground for experiments
